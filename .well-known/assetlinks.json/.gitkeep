@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.kenomicsalley.fasfestfinger",
-        "sha256_cert_fingerprints": ["12:D1:90:26:14:82:78:C6:6D:A5:F5:D5:9C:D4:9C:99:C9:9B:4C:98:BB:8F:E9:F3:C3:A6:AA:7A:B0:71:CD:C7"]
-      }
-    }]
