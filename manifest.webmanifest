@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "Fastest Finger",
+  "short_name": "Fastest Finger",
+  "description": "Learn touch typing from zero to mastery with lessons, practice missions, mouse skills and a certificate. Works offline. By Kenomicsalley.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000817",
+  "theme_color": "#101b36",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "education",
+    "games",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
